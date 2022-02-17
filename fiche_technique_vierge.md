@@ -25,3 +25,7 @@
 # Ce qui vous a plu, vous a donné des idées et justifications
 
 # Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+
+# Références
+
+# Photographies et croquis à intégrer
