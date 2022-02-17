@@ -34,6 +34,7 @@ Le 10 février 2022.
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif
 
+1 écran placé verticalement, plusieurs bancs placés proche.
 
 ## Liste des éléments nécessaires pour la mise en exposition
 
