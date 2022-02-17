@@ -61,7 +61,7 @@ J'ai aimé les couleurs utilisées dans cette oeuvre et la géométrie et finale
 
 
 
-## Photographies et croquis à intégrer
+
 
 
 
