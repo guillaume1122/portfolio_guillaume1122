@@ -31,11 +31,13 @@ Le 10 février 2022.
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif
 
 
+
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif
 
 
 ## Liste des éléments nécessaires pour la mise en exposition
 
+Il y avait seulement un écran vertical mais pas de haut-parleurs. Cette oeuvre était au fond de la pièce et il y avait des bancs au centre pour s'asseoir.
 
 ## Expérience vécue
 
