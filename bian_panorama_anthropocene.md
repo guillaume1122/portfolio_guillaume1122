@@ -43,19 +43,19 @@ Il y avait seulement un écran vertical mais pas de haut-parleurs. Cette oeuvre 
 ## Expérience vécue
 
 J'ai trouvé cette oeuvre relaxante, j'ai aimé la visionner et je suis resté longtemps dessus et j'ai eu le temps de tout la regarder et même la revoir en partie.
-J'aime les effets de dégradé qu'il y avait souvent et les images qui étaient faites en cube. J'étais confortable assis sur le banc le plus proche.
+J'aime les effets de dégradé qu'il y avait souvent et les images qui étaient faites de cubes. J'étais confortable assis sur le banc le plus proche.
 
 ## Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
 
-Je crois avoir compris ce que l'oeuvre signifiait après avoir vu plein de pétrole se déverser dans le l'eau propre et plein de poulets se faire couper la tête de façon industrielle et des montagnes se transformer en montagne d'argent. Elle démontre entre autres la surconsommation et la pollution.
+Je crois avoir compris ce que l'oeuvre signifiait après avoir vu plein de pétrole se déverser dans de l'eau propre et plein de poulets se faire couper la tête de façon industrielle et des montagnes se transformer en montagne d'argent. Elle démontre entre autres la surconsommation et la pollution.
 
 ## Ce qui vous a plu, vous a donné des idées et justifications
 
-J'ai aimé les couleurs utilisées dans cette oeuvre et la géométrie et finalement la liaison qu'il y avait entre chaque ¨scène¨
+J'ai aimé les couleurs utilisées dans cette oeuvre et la géométrie et finalement la liaison qu'il y avait entre chaque ¨scène¨.
 
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
 
-
+Je crois que cette oeuvre devrait être placée plus proche du centre de la pièce car j'ai failli la manquer mais elle était bonne. Elle vaudrait la peine d'être mise plus en valeur car je ne suis pas sûr que tout le monde l'a vu.
 
 ## Références
 
