@@ -58,6 +58,7 @@ J'ai aimé les couleurs utilisées dans cette oeuvre et la géométrie et finale
 Je crois que cette oeuvre devrait être placée plus proche du centre de la pièce car j'ai failli la manquer mais elle était bonne. Elle vaudrait la peine d'être mise plus en valeur car je ne suis pas sûr que tout le monde l'a vu.
 
 ## Références
+## Fiche descriptive de l'oeuvre.
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/94695753/155439350-c0ca0e40-dead-482c-baa7-608b4d3d273e.png)
 
 
