@@ -63,6 +63,15 @@ Je crois que cette oeuvre devrait être placée plus proche du centre de la piè
 
 
 ## Photos de l'oeuvre
+![bian_autoroute_voitures](https://user-images.githubusercontent.com/94695753/155440030-c2806660-d015-4ed0-962e-24b1cf88ca42.PNG)
+
+![bian_station_essence](https://user-images.githubusercontent.com/94695753/155440031-5c83c1cc-8cd8-49d9-ac78-d97925a97bcb.PNG)
+
+![bian_poule](https://user-images.githubusercontent.com/94695753/155440032-585ae84f-5726-4ee4-825f-791a2935bb7a.PNG)
+
+![bian_poule_couper_tete](https://user-images.githubusercontent.com/94695753/155440033-6fa3f44b-444a-4c98-9feb-9fce610ed971.PNG)
+
+![bian_route_voitures](https://user-images.githubusercontent.com/94695753/155440034-95893a5b-91ef-4089-9cba-b3b180ff0444.PNG)
 
 
 
