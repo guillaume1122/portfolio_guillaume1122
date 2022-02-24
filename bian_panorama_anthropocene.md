@@ -59,18 +59,19 @@ Je crois que cette oeuvre devrait être placée plus proche du centre de la piè
 
 ## Références
 ## Fiche descriptive de l'oeuvre
-
+![bian_fiche_descriptive](https://user-images.githubusercontent.com/94695753/155440288-301dd0d5-f6cf-44a0-ba68-f6b34c9f3e26.png)
 
 
 ## Photos de l'oeuvre
+### autoroute
 ![bian_autoroute_voitures](https://user-images.githubusercontent.com/94695753/155440030-c2806660-d015-4ed0-962e-24b1cf88ca42.PNG)
-
+### station d'essence
 ![bian_station_essence](https://user-images.githubusercontent.com/94695753/155440031-5c83c1cc-8cd8-49d9-ac78-d97925a97bcb.PNG)
-
+### poules
 ![bian_poule](https://user-images.githubusercontent.com/94695753/155440032-585ae84f-5726-4ee4-825f-791a2935bb7a.PNG)
-
+### poule qui se font tuer
 ![bian_poule_couper_tete](https://user-images.githubusercontent.com/94695753/155440033-6fa3f44b-444a-4c98-9feb-9fce610ed971.PNG)
-
+### route
 ![bian_route_voitures](https://user-images.githubusercontent.com/94695753/155440034-95893a5b-91ef-4089-9cba-b3b180ff0444.PNG)
 
 
