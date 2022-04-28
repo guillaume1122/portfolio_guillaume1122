@@ -1,2 +1,2 @@
 # portfolio_guillaume1122
-# Ce repository contient l'ensemble des expériences faites au cours de la session.
+# Ce repository contient l'ensemble des expériences vécues au cours de la session.
