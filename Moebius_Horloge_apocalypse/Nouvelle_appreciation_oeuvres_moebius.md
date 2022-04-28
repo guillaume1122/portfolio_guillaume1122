@@ -1,4 +1,4 @@
-# Projet préféré **** Il faut refaire le top des meilleures oeuvre selon moi après avoir vu l'oeuvre en vrai vie ici écrit l'ancien comme exemple
+# Projet préféré **** Il faut refaire le top des meilleures oeuvre selon moi après avoir vu l'oeuvre en vrai vie ici est écrit l'ancien comme exemple
 ## - 1 : L'horloge de l'apocalypse
 
 Raison: Cette oeuvre est ma préférée car je la trouve originale et intéressante. J'aime le fait que nous avons le contrôle sur l'horloge pour changer le temps et donc changer la situation sur la Terre et que nous sommes dans une pièce isolée dans le petit studio. Nous sommes entourés de projections dans la petite pièce avec des trames sonores qui représentent bien la vidéo affichée sur les murs.
