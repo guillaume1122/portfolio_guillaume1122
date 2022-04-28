@@ -1,1 +1,1 @@
-# Ce dossier contient des photographies et des croquis de l'oeuvre de l'horloge de l'apocalypse dans l'exposition Moebius.
+# Ce dossier contient des photographies et des croquis de l'oeuvre The Illusion of a Crowd dans l'exposition au centre vox.
