@@ -4,4 +4,4 @@
 
 
 
-# vrai texte écrit ici sera: Ce dossier contient une documentation sur l'oeuvre de *****  dans l'exposition Configurations sensible.
+# vrai texte écrit ici sera: Ce dossier contient une documentation sur l'oeuvre de *****  dans l'exposition Configurations du sensible.
