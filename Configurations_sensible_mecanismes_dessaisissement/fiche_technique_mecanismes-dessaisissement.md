@@ -31,9 +31,10 @@ Composantes:du bois, de l'aluminium, des impressions à jet d'encre sur acryliqu
 Un mur solide pour soutenir le poids du dispositif qui y est accroché, de l'électricité, des pièces mécaniques de métal et un éclairarge doux pour mettre en valeur la lumière émise par l'oeuvre.
 
 ## Expérience vécue 
-J'ai trouvé cette oeuvre assez belle surtout grace a l'éclairage qui est bien réussi et qui donne une bonne ambiance. Je suis resté assez longtemps devant cette oeuvre pour la regarder bouger mais elle bougeait seulement de environ quelques centimètres par minute. Personnellement, je crois que cette oeuvre est la plus belle de l'exposition. Je crois que une oeuvre comme celle-ci pourrais se trouver dans un manoir de quelqu'un de riche qui aurait acheté l'oeuvre.
+J'ai trouvé cette oeuvre assez belle surtout grace a l'éclairage qui est bien réussi et qui donne une bonne ambiance. J'ai apprécié le fait que l'on piuvait observer les pièces mécaniques bouger c'était intéressant. Je suis resté assez longtemps devant cette oeuvre pour la regarder bouger mais elle bougeait seulement de environ quelques centimètres par minute. Personnellement, je crois que cette oeuvre est la plus belle de l'exposition. Je crois que une oeuvre comme celle-ci pourrais se trouver dans un manoir de quelqu'un de riche qui aurait acheté l'oeuvre.
 
 ## Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
+Je crois que c'est une ouvre que l'on peux regarder pendant longtemps. Elle n'est pas interactive parcontre.
 
 ## Ce qui vous a plu, vous a donné des idées et justifications
 
