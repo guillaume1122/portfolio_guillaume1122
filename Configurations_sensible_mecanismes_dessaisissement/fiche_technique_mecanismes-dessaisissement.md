@@ -34,7 +34,7 @@ Un mur solide pour soutenir le poids du dispositif qui y est accroché, de l'él
 J'ai trouvé cette oeuvre assez belle surtout grace a l'éclairage qui est bien réussi et qui donne une bonne ambiance. J'ai apprécié le fait que l'on piuvait observer les pièces mécaniques bouger c'était intéressant. Je suis resté assez longtemps devant cette oeuvre pour la regarder bouger mais elle bougeait seulement de environ quelques centimètres par minute. Personnellement, je crois que cette oeuvre est la plus belle de l'exposition. Je crois que une oeuvre comme celle-ci pourrais se trouver dans un manoir de quelqu'un de riche qui aurait acheté l'oeuvre.
 
 ## Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
-Je crois que c'est une ouvre que l'on peux regarder pendant longtemps. Elle n'est pas interactive parcontre.
+Je crois que c'est une oeuvre que l'on peux regarder pendant longtemps. Elle n'est pas interactive parcontre.
 
 ## Ce qui vous a plu, vous a donné des idées et justifications
 J'ai aimé l'éclairage doux, les pièces mécaniques qui bougent et voir les deux formes du cadre du centre bouger emsemble.
