@@ -6,7 +6,7 @@
  Béchard Hudon
 
 ## Année de réalisation
-2019-1021
+2019-2021
 ## Nom de l'exposition
 Configurations du sensible
 ## Lieu de mise en exposition 
