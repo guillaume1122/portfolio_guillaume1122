@@ -22,7 +22,7 @@ Composantes:du bois, de l'aluminium, des impressions à jet d'encre sur acryliqu
 ## Liste des éléments nécessaires pour la mise en exposition
 Un mur solide pour soutenir le poids du dispositif qui y est accroché, de l'électricité, des pièces mécaniques de métal et un éclairarge doux pour mettre en valeur la lumière émise par l'oeuvre.
 ## Expérience vécue 
-
+J'ai trouvé cettre oeuvre assez belle 
 ## Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
 
 ## Ce qui vous a plu, vous a donné des idées et justifications
