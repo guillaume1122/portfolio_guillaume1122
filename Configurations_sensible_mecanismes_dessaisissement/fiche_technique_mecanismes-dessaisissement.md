@@ -14,7 +14,7 @@ la salle Alfred-Pellan
 ## Date de votre visite
 14 avril 2022
 ## Description de l'oeuvre ou du dispositif multimédia
-Cette oeuvre est faite de trois installations géométriques. Un triangle, un carré et un cercle. Chaque structure est composée de quatre fois sa forme, 2 petits, 1 moyen et un grand qui encadre les trois autres et qui est collé sur le mur à la place d'être attaché sur l'oeuvre. 
+Cette oeuvre est faite de trois installations géométriques. Un triangle, un carré et un cercle. Chaque structure est composée de quatre fois sa forme, 2 petits, 1 moyen et un grand qui encadre les trois autres et qui est collé sur le mur à la place d'être attaché à l'oeuvre. 
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif
 Ces trois oeuvres sont placées contre le mur de gauche à partir de la porte pour entrer dans la pièce.
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif
