@@ -37,9 +37,10 @@ J'ai trouvé cette oeuvre assez belle surtout grace a l'éclairage qui est bien 
 Je crois que c'est une ouvre que l'on peux regarder pendant longtemps. Elle n'est pas interactive parcontre.
 
 ## Ce qui vous a plu, vous a donné des idées et justifications
-J'ai aimé l'éclaire doux, les pièces mécaniques qui bougent et voir les deux formes du cadre du centre bouger emsemble.
+J'ai aimé l'éclairage doux, les pièces mécaniques qui bougent et voir les deux formes du cadre du centre bouger emsemble.
 
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+On m'a dit que cette oeuvre a pris deux ans à compléter. Je crois que c'est trop long pour un projet comme celui-ci de passer deux ans à faire une seule oeuvre.Je ne crois pas, personnellement, que je passerais deux ans à faire une oeuvre comme celle-ci.
 
 ## Références
 
