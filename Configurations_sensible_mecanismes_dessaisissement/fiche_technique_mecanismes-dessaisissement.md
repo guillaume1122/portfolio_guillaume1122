@@ -37,6 +37,7 @@ J'ai trouvé cette oeuvre assez belle surtout grace a l'éclairage qui est bien 
 Je crois que c'est une ouvre que l'on peux regarder pendant longtemps. Elle n'est pas interactive parcontre.
 
 ## Ce qui vous a plu, vous a donné des idées et justifications
+J'ai aimé l'éclaire doux, les pièces mécaniques qui bougent et voir les deux formes du cadre du centre bouger emsemble.
 
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
 
