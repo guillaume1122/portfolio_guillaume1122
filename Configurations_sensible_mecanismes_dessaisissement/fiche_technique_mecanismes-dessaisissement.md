@@ -1,5 +1,5 @@
 ## Titre de l'oeuvre
- mécanismes de dessaisissement.
+ Mécanismes de Dessaisissement.
 
 
 ## Nom de l'artiste
@@ -10,7 +10,7 @@
 ## Nom de l'exposition
 Configurations du sensible
 ## Lieu de mise en exposition 
-la salle Alfred-Pellan
+Salle Alfred-Pellan
 ## Date de votre visite
 14 avril 2022
 ## Description de l'oeuvre ou du dispositif multimédia
