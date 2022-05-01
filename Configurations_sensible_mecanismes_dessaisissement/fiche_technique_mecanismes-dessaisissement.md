@@ -1,9 +1,9 @@
 # Titre de l'oeuvre
-## mécanismes de dessaisissement.
+ mécanismes de dessaisissement.
 
 
 # Nom de l'artiste
-## Béchard Hudon
+ Béchard Hudon
 
 # Année de réalisation
 
