@@ -18,7 +18,7 @@ Cette oeuvre est faite de trois installations géométriques. Un triangle, un ca
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif
 Ces trois installations sont placées contre le mur de gauche à partir de la porte pour entrer dans la pièce. Elles sont assez distancées de l'oeuvre centrale.
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif
-Composantes:du bois, de l'aluminium, des impressions à jet d'encre sur acrylique, des diodes électroluminescentes, des systèmes électromécaniques, des détecteurs de mouvements et de l'alimentation en électricité. Ce sont des formes colorées attachées par des bras pivotants en aluminium qui émettent une douce lumière turquoise.
+Composantes:du bois, de l'aluminium, des impressions à jet d'encre sur acrylique, des diodes électroluminescentes, des systèmes électromécaniques, des détecteurs de mouvements et de l'alimentation en électricité. Techniques des dispositifs: Ce sont des formes colorées attachées par des bras pivotants en aluminium qui émettent une douce lumière turquoise.
 ## Liste des éléments nécessaires pour la mise en exposition
 
 ## Expérience vécue 
