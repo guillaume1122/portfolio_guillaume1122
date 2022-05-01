@@ -42,7 +42,7 @@ J'ai aimé l'éclairage doux, les pièces mécaniques qui bougent et voir les de
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
 On m'a dit que cette oeuvre a pris deux ans à compléter. Je crois que c'est trop long pour un projet comme celui-ci de passer deux ans à faire une seule oeuvre.Je ne crois pas, personnellement, que je passerais deux ans à faire une oeuvre comme celle-ci.
 
-## Références
+# Références
 
-## Photographies et croquis à intégrer
+## Fiche descriptive de l'oeuvre
 
