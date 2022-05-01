@@ -20,7 +20,7 @@ Ces trois installations sont placées contre le mur de gauche à partir de la po
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif
 Composantes:du bois, de l'aluminium, des impressions à jet d'encre sur acrylique, des diodes électroluminescentes, des systèmes électromécaniques, des détecteurs de mouvements et de l'alimentation en électricité. Techniques des dispositifs: Ce sont des formes colorées attachées par des bras pivotants en aluminium qui émettent une douce lumière turquoise.
 ## Liste des éléments nécessaires pour la mise en exposition
-
+Un mur solide pour soutenir le poids du dispositif qui y est accroché,
 ## Expérience vécue 
 
 ## Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
