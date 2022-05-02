@@ -49,3 +49,12 @@ On m'a dit que cette oeuvre a pris deux ans à compléter. Je crois que c'est tr
 
 ## Croquis de la salle (vue de haut)
 ![croquisoeuvremecanisme](https://github.com/guillaume1122/portfolio_guillaume1122/blob/main/Configurations_sensible_mecanismes_dessaisissement/medias/mecanisme_croquis.jpg)
+
+## le cercle
+![cercleoeuvremecanisme]
+
+## le carré
+![carreoeuvremecanisme]
+
+## le triangle
+![triangleoeuvremecanisme]
