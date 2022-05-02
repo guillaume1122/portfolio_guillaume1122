@@ -47,4 +47,4 @@ On m'a dit que cette oeuvre a pris deux ans à compléter. Je crois que c'est tr
 ## Fiche descriptive de l'oeuvre
 ![ficheoeuvremecanisme](https://github.com/guillaume1122/portfolio_guillaume1122/blob/main/Configurations_sensible_mecanismes_dessaisissement/medias/fiche_oeuvre_mecanisme.jpg)
 
-##Croquis de la salle (vue de haut)
+## Croquis de la salle (vue de haut)
