@@ -1,29 +1,39 @@
 ## Titre de l'oeuvre
-
+Crowd Control
 
 
 ## Nom de l'artiste
-
+Clemens von Wedemeyer
 
 ## Année de réalisation
+2022
 
 ## Nom de l'exposition
+The Illusion of a Crowd
 
 ## Lieu de mise en exposition 
+Le centre Vox à Montréal.
 
 ## Date de votre visite
+30 avril 2022
 
 ## Description de l'oeuvre ou du dispositif multimédia
+Il y a une télévision accrochée sur une estrade sur le coté.
 
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif
+L'estrade ou est accrochée la télévision n'a pas l'air d'être placée d'un facon précise. Elle est placée en diagonale à environ 1 mètre du mur du fond.
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif
+Il faut une grosse estrade en métal, il faut une télévision assez grosse et il faut l'accrocher avec un support.
 
 ## Liste des éléments nécessaires pour la mise en exposition
+Une grande pièce avec une grand entrée et assez haute pour accueillir une estrade.
 
 ## Expérience vécue 
+Cette oeuvre était intéressante car elle montrait ce qu'on peux faire avec un ordinateur pour pouvoir controler des foules virtuelles, pour se pratiquer. J'étais impressioné de ce qu'un ordinteur peux faire. Le but de cette expérience était de montrer que grâce aux ordinateurs, on peux simuler les déplacement d'une foule dans les rues entre des batiments et des vehicules, pour pouvoir optimiser la coordination policière lors de manifestations dans la vraie vie.
 
 ## Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
+Nous étions debouts, moi, mon frère et mon ami à regarder la télévision 
 
 ## Ce qui vous a plu, vous a donné des idées et justifications
 
