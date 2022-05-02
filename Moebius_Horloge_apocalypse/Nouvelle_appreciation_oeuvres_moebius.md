@@ -25,7 +25,7 @@ Raison: j'ai quand même aimé ce projet, nous avons répondu au questionnaire p
 
 ## - 6 : Distorsion collective
 
-Raison: Ce projet raconte la vie durant la pandémie mondiale de la Covid-19 et ses effets négatifs. C'est sur que je n'aime pas entendre parler de l'école en ligne et des masques, mais je trouve intéressant le fait qu'il va y avoir du VR pour nous présenter cela.
+Raison: Je comprends pourquoi ils ont choisi ce sujet mais dans la réalité virtuelle il ne se passait pas assez de choses selon moi, et à la fin, il y avait des textes tirés de recherches qui étaient super intéressant à lire, mais ils partaient trop vite pour que j'aille le temps de les lire.
 
 
 
