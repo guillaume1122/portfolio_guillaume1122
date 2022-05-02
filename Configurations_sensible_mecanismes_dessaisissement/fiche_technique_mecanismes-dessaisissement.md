@@ -45,16 +45,16 @@ On m'a dit que cette oeuvre a pris deux ans à compléter. Je crois que c'est tr
 # Références
 
 ## Fiche descriptive de l'oeuvre
-![ficheoeuvremecanisme](https://github.com/guillaume1122/portfolio_guillaume1122/blob/main/Configurations_sensible_mecanismes_dessaisissement/medias/fiche_oeuvre_mecanisme.jpg)
+![fiche_mecanisme](https://github.com/guillaume1122/portfolio_guillaume1122/blob/main/Configurations_sensible_mecanismes_dessaisissement/medias/fiche_oeuvre_mecanisme.jpg)
 
 ## Croquis de la salle (vue de haut)
-![croquisoeuvremecanisme](https://github.com/guillaume1122/portfolio_guillaume1122/blob/main/Configurations_sensible_mecanismes_dessaisissement/medias/mecanisme_croquis.jpg)
+![croquis_mecanisme](https://github.com/guillaume1122/portfolio_guillaume1122/blob/main/Configurations_sensible_mecanismes_dessaisissement/medias/mecanisme_croquis.jpg)
 
 ## le cercle
-![cercleoeuvremecanisme](https://github.com/guillaume1122/portfolio_guillaume1122/blob/main/Configurations_sensible_mecanismes_dessaisissement/medias/mecanisme_cercle.jpg)
+![cercle_mecanisme](https://github.com/guillaume1122/portfolio_guillaume1122/blob/main/Configurations_sensible_mecanismes_dessaisissement/medias/mecanisme_cercle.jpg)
 
 ## le carré
-![carreoeuvremecanisme](https://github.com/guillaume1122/portfolio_guillaume1122/blob/main/Configurations_sensible_mecanismes_dessaisissement/medias/mecanisme_carre.jpg)
+![carre_mecanisme](https://github.com/guillaume1122/portfolio_guillaume1122/blob/main/Configurations_sensible_mecanismes_dessaisissement/medias/mecanisme_carre.jpg)
 
 ## le triangle
-![triangleoeuvremecanisme](https://github.com/guillaume1122/portfolio_guillaume1122/blob/main/Configurations_sensible_mecanismes_dessaisissement/medias/mecanisme_triangle.jpg)
+![triangle_mecanisme](https://github.com/guillaume1122/portfolio_guillaume1122/blob/main/Configurations_sensible_mecanismes_dessaisissement/medias/mecanisme_triangle.jpg)
