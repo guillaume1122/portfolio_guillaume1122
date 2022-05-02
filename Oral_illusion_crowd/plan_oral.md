@@ -6,14 +6,14 @@
  - Les oeuvres: de 1 à 7
  - L'année de réalisation des oeuvres
  - Leur co-créateurs
- - leur descriptions
+ - leurs descriptions
  - la mise en espace
  -  les composantes
  -  les éléments pour faire fonctionner l'oeuvre
  - Le créateur et les co-créateur des oeuvres
  - Mon expérience vécue.
- - Ce qui m,a plus et ma donné des idées
- - Ce que je ferais autrememtn et/ou que je changerais.
+ - Ce qui m'a plus et m'a donné des idées
+ - Ce que je ferais autrement et/ou que je changerais..
  
  
  
