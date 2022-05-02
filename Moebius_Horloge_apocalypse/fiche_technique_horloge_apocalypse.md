@@ -42,6 +42,7 @@ j'ai aimé cette expérience car les créateurs étaient bien gentils et on a pa
 J'aime le concept de cette oeuvre qui est simple. Plus tard, je désire créer une oeuvre comme celle-ci.
 
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+Un des artistes a dit qu'il a du faire de la soudure pour le téléphone. Je vais essayer de ne pas avoir à faire cela pour mon oeuvre dans le futur.
 
 # Références
 
