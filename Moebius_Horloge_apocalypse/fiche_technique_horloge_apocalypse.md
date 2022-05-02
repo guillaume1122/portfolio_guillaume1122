@@ -9,7 +9,7 @@ Tristan Girard-Montpetit
 Maxime De Falco
 
 ## Année de réalisation
- 2022.
+2022.
 
 ## Nom de l'exposition
 Moebius.
