@@ -1,1 +1,1 @@
-# j'ai aimé cette présentation... faire un compte rendu..
+# j'ai aimé cette présentation... faire un compte-rendu et appréciation en 250 à 300 mots : intervenants, sujet de la présentation, technologies employées, particularités, éléments appréciés et justification
