@@ -45,4 +45,4 @@ On m'a dit que cette oeuvre a pris deux ans à compléter. Je crois que c'est tr
 # Références
 
 ## Fiche descriptive de l'oeuvre
-![ficheoeuvremecanisme]()
+![ficheoeuvremecanisme](https://github.com/guillaume1122/portfolio_guillaume1122/blob/main/Configurations_sensible_mecanismes_dessaisissement/medias/fiche_oeuvre_mecanisme.jpg)
