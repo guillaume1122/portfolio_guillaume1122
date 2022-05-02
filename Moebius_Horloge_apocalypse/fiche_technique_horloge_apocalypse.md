@@ -46,4 +46,4 @@ Un des artistes a dit qu'il a du faire de la soudure pour le téléphone. Je vai
 
 # Références
 
-## Photographies et croquis à intégrer
+## Croquis
