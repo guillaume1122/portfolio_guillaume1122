@@ -2,7 +2,11 @@
 L'horloge de l'apocalyspe.
 
 ## Nom des artistes
-
+Maxime Sabourin
+Louis-Philippe Gravel
+Alexis Lacasse
+Tristan Girard-Montpetit
+Maxime De Falco
 
 ## Année de réalisation
 
