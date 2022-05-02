@@ -50,11 +50,11 @@ On m'a dit que cette oeuvre a pris deux ans à compléter. Je crois que c'est tr
 ## Croquis de la salle (vue de haut)
 ![croquis_mecanisme](https://github.com/guillaume1122/portfolio_guillaume1122/blob/main/Configurations_sensible_mecanismes_dessaisissement/medias/mecanisme_croquis.jpg)
 
-## le cercle
+## Le cercle
 ![cercle_mecanisme](https://github.com/guillaume1122/portfolio_guillaume1122/blob/main/Configurations_sensible_mecanismes_dessaisissement/medias/mecanisme_cercle.jpg)
 
-## le carré
+## Le carré
 ![carre_mecanisme](https://github.com/guillaume1122/portfolio_guillaume1122/blob/main/Configurations_sensible_mecanismes_dessaisissement/medias/mecanisme_carre.jpg)
 
-## le triangle
+## Le triangle
 ![triangle_mecanisme](https://github.com/guillaume1122/portfolio_guillaume1122/blob/main/Configurations_sensible_mecanismes_dessaisissement/medias/mecanisme_triangle.jpg)
