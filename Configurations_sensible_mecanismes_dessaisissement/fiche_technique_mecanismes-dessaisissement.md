@@ -54,7 +54,7 @@ On m'a dit que cette oeuvre a pris deux ans à compléter. Je crois que c'est tr
 ![cercleoeuvremecanisme](https://github.com/guillaume1122/portfolio_guillaume1122/blob/main/Configurations_sensible_mecanismes_dessaisissement/medias/mecanisme_cercle.jpg)
 
 ## le carré
-![carreoeuvremecanisme]
+![carreoeuvremecanisme](https://github.com/guillaume1122/portfolio_guillaume1122/blob/main/Configurations_sensible_mecanismes_dessaisissement/medias/mecanisme_carre.jpg)
 
 ## le triangle
-![triangleoeuvremecanisme]
+![triangleoeuvremecanisme](https://github.com/guillaume1122/portfolio_guillaume1122/blob/main/Configurations_sensible_mecanismes_dessaisissement/medias/mecanisme_triangle.jpg)
