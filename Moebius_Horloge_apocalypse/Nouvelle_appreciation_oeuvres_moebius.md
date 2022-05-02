@@ -1,14 +1,12 @@
 # Projet préféré **** Il faut refaire le top des meilleures oeuvre selon moi après avoir vu l'oeuvre en vrai vie ici est écrit l'ancien comme exemple
 ## - 1 : L'horloge de l'apocalypse
 
-Raison: Cette oeuvre est ma préférée car je la trouve originale et intéressante. J'aime le fait que nous avons le contrôle sur l'horloge pour changer le temps et donc changer la situation sur la Terre et que nous sommes dans une pièce isolée dans le petit studio. Nous sommes entourés de projections dans la petite pièce avec des trames sonores qui représentent bien la vidéo affichée sur les murs.
-
-
+Raison: Je choisi cette oeuvre comme étant la meilleure car j'aime beaucoup le concept simple de ce projet et celui-ci a l'air amusant a créer.
 
 
 ## - 2 : Chère Sasha
 
-Raison: Je veux vraiment voir l'installation de la belle chambre et de la chambre sale et j'aime le fait que cette oeuvre sera plus montée physiquement qu'électroniquement. J'ai mis cette oeuvre à la troisième place car elle est moins remplie que l'oeuvre numéro deux selon moi.
+Raison: j'ai remarqué des détails intéressants da
 
 
 ## - 3 : Chronaufrage
