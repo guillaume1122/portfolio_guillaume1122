@@ -39,7 +39,7 @@ Nous étions debouts, moi, mon frère et mon ami à regarder la télévision. Ca
 J'ai aimé la vidéo car on pouvait voir la personne changer la vitess de déplacement de la foule, la densité de foule, l'intensité de la foule, la zone ou il y avait des foules et placer des véhicules de police avec quelques clics seulement. 
 
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
-
+J'ai moins aimé le fait qu'il n'y avait peu de son dans la vidéo appart pour les sons de clics de souris et les foules crier. Il n'y avait pas d'explication sur ce que la personne faisait dans la vidéo.
 
 ## Références
 
