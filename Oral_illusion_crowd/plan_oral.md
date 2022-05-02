@@ -1,6 +1,21 @@
 ## Introduction :
 
- Bonjour, aujourd'hui je vais vous parler de ma visite a l'exposition The Illusion of a Crowd au centre Vox, a Montréal. J'y suis allé avec mon frère et Yousef
+ Bonjour, aujourd'hui je vais vous parler de ma visite a l'exposition The Illusion of a Crowd au centre Vox, a Montréal. J'y suis allé avec mon frère et Yousef. Cette exposition est située au quatrieme etage et comporte 5 pieces principales. Ceci sreront les points dont je vais aborder durant la présentation.
+ - La date de notre visite
+ - Le lieu de l'exposition
+ - Les oeuvres: de 1 à 7
+ - L'année de réalisation des oeuvres
+ - Leur co-créateurs
+ - leur descriptions
+ - la mise en espace
+ -  les composantes
+ -  les éléments pour faire fonctionner l'oeuvre
+ - Le créateur et les co-créateur des oeuvres
+ - Mon expérience vécue.
+ - Ce qui m,a plus et ma donné des idées
+ - Ce que je ferais autrememtn et/ou que je changerais.
+ 
+ 
  
 ## Développement :
 
@@ -11,6 +26,4 @@
  Liens avec autres oeuvres et expériences multimédias découvertes cette session
  
  ## Conclusion :
- 
- Rappel des aspects présentés
- Ouverture : élément inspirant retenu parmi toutes les oeuvres et expériences de la session
+Pour conclure,j'ai aimé cette exposition. j'y retournerais meme pour pouvoiur voir chaque vidéo au complet.
