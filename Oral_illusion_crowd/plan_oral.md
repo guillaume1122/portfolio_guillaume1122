@@ -26,4 +26,5 @@
  Liens avec autres oeuvres et expériences multimédias découvertes cette session
  
  ## Conclusion :
-Pour conclure,j'ai aimé cette exposition. j'y retournerais meme pour pouvoiur voir chaque vidéo au complet.
+Pour conclure, j'ai aimé cette exposition. J'y retournerais même pour pouvoir regarder chaque vidéo au complet. J'ai pu voir le potentiel des ordinateurs et que dans le futur, ils seront utilisés pour toutes les raisons. J'ai vu que c'était utile, car juste avant de rentrer dans le centre Vox, nous sommes tombés sur une manifestation où il y avait de la police qui gérait la circulation et des autos de police avec les lumières allumées sur la rue Sainte Catherine à Montréal. Bref, cette matière m'a donné le gout d'aller voir plus d'expositions dorénavant
+
