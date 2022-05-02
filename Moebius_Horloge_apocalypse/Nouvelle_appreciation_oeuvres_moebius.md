@@ -21,7 +21,7 @@ Raison: Je savais que ca allait être amusant de lancer des ballons en réalité
 
 ## - 5 : Jeu temporel
 
-Raison: Je ne suis pas spécialement un fan de ce sujet, mais ce projet a l'air bien monté et est unique dans le sens ou il y a plusieurs alternatives de fins qui vont nous donner envie de recommencer le questionnaire pour voir toutes les possibilités.
+Raison: j'ai quand même aimé ce projet, nous avons répondu au questionnaire plusieurs fois pour obtenir une note parfaite. Mais malheureusement, il y avait des confusions parfois dans les questions et plusieurs fautes d'orthographe. Aussi, pendant que l'on jouait, on a du arrêter car les artistes devaient réparer quelque chose.
 
 ## - 6 : Distorsion collective
 
