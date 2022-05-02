@@ -43,4 +43,14 @@ J'ai moins aimé le fait qu'il n'y avait peu de son dans la vidéo appart pour l
 
 ## Références
 
-## Photographies et croquis à intégrer
+## Croquis
+![crowd_croquis](https://github.com/guillaume1122/portfolio_guillaume1122/blob/main/Oral_illusion_crowd/medias/crowd_croquis.jpg)
+
+## Foule de proche
+![crowd_fouleproche](https://github.com/guillaume1122/portfolio_guillaume1122/blob/main/Oral_illusion_crowd/medias/crowd_fouleproche.PNG)
+
+## Foule
+![crowd_foule](https://github.com/guillaume1122/portfolio_guillaume1122/blob/main/Oral_illusion_crowd/medias/crowd_foule.PNG)
+
+## Police
+![crowd_police](https://github.com/guillaume1122/portfolio_guillaume1122/blob/main/Oral_illusion_crowd/medias/crowd_police.PNG)
