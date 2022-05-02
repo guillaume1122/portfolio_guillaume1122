@@ -9,12 +9,16 @@ Tristan Girard-Montpetit
 Maxime De Falco
 
 ## Année de réalisation
+2022.
 
 ## Nom de l'exposition
+Moebius.
 
 ## Lieu de mise en exposition 
+Le grand et le petit studio au collège Montmorency.
 
 ## Date de votre visite
+24 mars 2022
 
 ## Description de l'oeuvre ou du dispositif multimédia
 
