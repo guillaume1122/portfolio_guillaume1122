@@ -1,5 +1,4 @@
-# Projet préféré **** Il faut refaire le top des meilleures oeuvre selon moi après avoir vu l'oeuvre en vrai vie ici est écrit l'ancien comme exemple
-## - 1 : L'horloge de l'apocalypse
+# Projet préféré: l'horloge de l'apocalyspe
 
 Raison: Je choisi cette oeuvre comme étant la meilleure car j'aime beaucoup le concept simple de ce projet et celui-ci a l'air amusant a créer.
 
