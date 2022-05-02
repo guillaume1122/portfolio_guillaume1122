@@ -49,4 +49,9 @@ Un des artistes a dit qu'il a du faire de la soudure pour le téléphone. Je vai
 ## Croquis
 ![croquis_horloge](https://github.com/guillaume1122/portfolio_guillaume1122/blob/main/Moebius_Horloge_apocalypse/medias/horloge_croquis.jpg)
 
-## Photographies
+## Téléphone
+![telephone_horloge]
+## Horloge
+![horloge_horloge]
+## Décor
+![decor_horloge]
