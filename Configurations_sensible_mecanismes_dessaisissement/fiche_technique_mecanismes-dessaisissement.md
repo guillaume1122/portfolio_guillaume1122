@@ -51,7 +51,7 @@ On m'a dit que cette oeuvre a pris deux ans à compléter. Je crois que c'est tr
 ![croquisoeuvremecanisme](https://github.com/guillaume1122/portfolio_guillaume1122/blob/main/Configurations_sensible_mecanismes_dessaisissement/medias/mecanisme_croquis.jpg)
 
 ## le cercle
-![cercleoeuvremecanisme]
+![cercleoeuvremecanisme](https://github.com/guillaume1122/portfolio_guillaume1122/blob/main/Configurations_sensible_mecanismes_dessaisissement/medias/mecanisme_cercle.jpg)
 
 ## le carré
 ![carreoeuvremecanisme]
