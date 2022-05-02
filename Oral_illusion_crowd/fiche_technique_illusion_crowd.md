@@ -33,11 +33,13 @@ Une grande pièce avec une grand entrée et assez haute pour accueillir une estr
 Cette oeuvre était intéressante car elle montrait ce qu'on peux faire avec un ordinateur pour pouvoir controler des foules virtuelles, pour se pratiquer. J'étais impressioné de ce qu'un ordinteur peux faire. Le but de cette expérience était de montrer que grâce aux ordinateurs, on peux simuler les déplacement d'une foule dans les rues entre des batiments et des vehicules, pour pouvoir optimiser la coordination policière lors de manifestations dans la vraie vie.
 
 ## Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
-Nous étions debouts, moi, mon frère et mon ami à regarder la télévision 
+Nous étions debouts, moi, mon frère et mon ami à regarder la télévision. Ca faisait bizxarre de la regarder sur une estrade renversée de coté a l'intérieur d'un batiment.
 
 ## Ce qui vous a plu, vous a donné des idées et justifications
+J'ai aimé la vidéo car on pouvait voir la personne changer la vitess de déplacement de la foule, la densité de foule, l'intensité de la foule, la zone ou il y avait des foules et placer des véhicules de police avec quelques clics seulement. 
 
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+
 
 ## Références
 
