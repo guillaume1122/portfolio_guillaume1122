@@ -45,4 +45,4 @@ On m'a dit que cette oeuvre a pris deux ans à compléter. Je crois que c'est tr
 # Références
 
 ## Fiche descriptive de l'oeuvre
-[![fiche_oeuvre_mecanisme.jpg]
+[![fiche_oeuvre_mecanisme]()
