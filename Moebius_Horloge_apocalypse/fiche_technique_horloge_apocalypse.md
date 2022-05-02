@@ -50,8 +50,8 @@ Un des artistes a dit qu'il a du faire de la soudure pour le téléphone. Je vai
 ![croquis_horloge](https://github.com/guillaume1122/portfolio_guillaume1122/blob/main/Moebius_Horloge_apocalypse/medias/horloge_croquis.jpg)
 
 ## Téléphone
-![telephone_horloge]
+![telephone_horloge](https://github.com/guillaume1122/portfolio_guillaume1122/blob/main/Moebius_Horloge_apocalypse/medias/horloge_telephone.jpg)
 ## Horloge
-![horloge_horloge]
+![horloge_horloge](https://github.com/guillaume1122/portfolio_guillaume1122/blob/main/Moebius_Horloge_apocalypse/medias/horloge_horloge.jpg)
 ## Décor
-![decor_horloge]
+![decor_horloge](https://github.com/guillaume1122/portfolio_guillaume1122/blob/main/Moebius_Horloge_apocalypse/medias/horloge_decor.PNG)
