@@ -1,7 +1,6 @@
 ## Introduction :
 
- Quel est l'objectif de votre communication (sujet posé = présentation oeuvre + expérience)
- Quels aspects seront abordés ? (sujet divisé = les différents points du développement)
+ Bonjour, aujourd'hui je vais vous parler de ma visite a l'exposition The Illusion of a Crowd au centre Vox, a Montréal. J'y suis allé avec mon frère et Yousef
  
 ## Développement :
 
