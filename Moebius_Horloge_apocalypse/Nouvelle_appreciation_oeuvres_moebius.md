@@ -1,6 +1,6 @@
 # Projet préféré après avoir vu les oeuvres
 
-## Projet préféré: l'horloge de l'apocalyspe
+## - 1 : l'horloge de l'apocalyspe
 
 Raison: Je choisi cette oeuvre comme étant la meilleure car j'aime beaucoup le concept simple de ce projet et celui-ci a l'air amusant a créer.
 
