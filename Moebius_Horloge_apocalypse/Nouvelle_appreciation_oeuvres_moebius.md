@@ -15,7 +15,7 @@ Raison: j'ai cru que cette oeuvre allait être un peu ennuyante mais finalement 
 
 ## - 4 : 3 minutes
 
-Raison: 
+Raison: Je savais que ca allait être amusant de lancer des ballons en réalité virtuelle.
 
 
 ## - 5 : Jeu temporel
